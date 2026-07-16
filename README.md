@@ -69,4 +69,17 @@ I'm a passionate Full Stack Developer and a BIT student at Lincoln University wi
 
 <br>
 
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Upe-maha&label=Profile%20Views&color=58A6FF&style=flat" alt="Upe-maha" />
+</p>
+
 ---
+
+<div align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
