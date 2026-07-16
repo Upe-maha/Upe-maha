@@ -1,115 +1,85 @@
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Upendra Mahatara
 
-# Hi 👋, I'm Upendra Mahatara
+### 🚀 Full Stack Developer | MERN Stack | Backend Enthusiast
 
-### Full Stack Developer | MERN Stack | Backend Enthusiast | AI Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Full+Stack+Developer;AI+Learner;Problem+Solver" alt="Typing SVG" />
 
-Building scalable web applications and continuously learning new technologies.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upendra-mahatara-120694294)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upekhampa5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Upe-maha)
+
+---
 
 </div>
 
----
+## 🧑‍💻 About Me
 
-## 🚀 About Me
+I'm a passionate Full Stack Developer and a BIT student at Lincoln University with a strong focus on backend engineering. My journey involves crafting clean, scalable web applications and constantly exploring the frontiers of AI and system design.
 
-- 🎓 BIT Student at Lincoln University
-- 💻 Passionate about Backend Development
-- 🌱 Currently learning AI Engineering & Advanced System Design
-- 🔭 Working on MERN Stack Projects
-- ⚡ Love solving real-world problems with code
-- 📍 Kathmandu, Nepal
+- 🔭 I’m currently working on **MERN Stack Projects**.
+- 🌱 I’m currently learning **AI Engineering & Advanced System Design**.
+- 👯 I’m open to collaborating on **Open Source & Web Development** projects.
+- 💬 Ask me about **MERN, JavaScript, or System Architecture**.
+- ⚡ Fun fact: I love solving real-world problems with code.
 
----
+<br>
 
-## 🌐 Connect with Me
+## 💻 Tech Stack
 
-<p align="center">
-<a href="https:linkedin.com/in/upendra-mahatara-120694294">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<a href="mailto: upekhampa5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</p>
+<br>
 
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-# 📂 Featured Projects
-
-### 🚀 Job Tracker
-Full Stack Job Application Tracker built with Next.js, TypeScript, MongoDB and Tailwind CSS.
-
-### 💬 Chat Application
-Real-time chat application using MERN Stack and Socket.IO.
-
-### 📝 Blog Application
-Modern MERN Blog with Authentication, Admin Panel, Comments, Likes and Categories.
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Upe-maha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Upe-maha&theme=github-dark&hide_border=true" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upe-maha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=Upe-maha&theme=github_dark&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
 
----
+<br>
 
-<div align="center">
+## 📈 Activity Graph
 
-### ⭐ Thanks for visiting my profile!
+[![Upendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upe-maha&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Always learning. Always building.
+<br>
 
-</div>
+## 📊 Weekly Development Breakdown
+
+<!-- This section is powered by WakaTime. You can set it up for automatic updates. -->
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   40.2 %
+TypeScript   8 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   22.1 %
+JSON         3 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.3 %
+Markdown     2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   6.8 %
+Other        1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.5 %
