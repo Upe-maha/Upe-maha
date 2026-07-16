@@ -19,9 +19,9 @@
 
 I'm a passionate Full Stack Developer and a BIT student at Lincoln University with a strong focus on backend engineering. My journey involves crafting clean, scalable web applications and constantly exploring the frontiers of AI and system design.
 
-- 🔭 I’m currently working on **MERN Stack Projects**.
-- 🌱 I’m currently learning **AI Engineering & Advanced System Design**.
-- 👯 I’m open to collaborating on **Open Source & Web Development** projects.
+- 🔭 I'm currently working on **MERN Stack Projects**.
+- 🌱 I'm currently learning **AI Engineering & Advanced System Design**.
+- 👯 I'm open to collaborating on **Open Source & Web Development** projects.
 - 💬 Ask me about **MERN, JavaScript, or System Architecture**.
 - ⚡ Fun fact: I love solving real-world problems with code.
 
@@ -53,33 +53,20 @@ I'm a passionate Full Stack Developer and a BIT student at Lincoln University wi
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Upe-maha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Upe-maha&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Upe-maha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upe-maha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=Upe-maha&theme=github_dark&no-frame=true&margin-w=15&row=2&column=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upe-maha&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upe-maha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <br>
 
-## 📈 Activity Graph
-
-[![Upendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upe-maha&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-## 📊 Weekly Development Breakdown
-
-<!-- This section is powered by WakaTime. You can set it up for automatic updates. -->
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   40.2 %
-TypeScript   8 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   22.1 %
-JSON         3 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.3 %
-Markdown     2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   6.8 %
-Other        1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.5 %
+---
