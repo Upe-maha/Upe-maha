@@ -26,13 +26,12 @@ BIT student at Lincoln University · Building clean, scalable web apps · Explor
 ## Tech Stack
 
 **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)]
 **Backend & Database**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma)]
 
 **Tools**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,figma)]
 
 ---
 
