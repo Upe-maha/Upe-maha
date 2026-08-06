@@ -17,9 +17,9 @@
 
 BIT student at Lincoln University · Building clean, scalable web apps · Exploring AI & system design
 
-- 🔭 Working on **MERN Stack Projects**
-- 🌱 Learning **AI Engineering & System Design**
-- 💬 Ask me about **JavaScript, React, Node.js**
+🔭 Working on **MERN Stack Projects**
+🌱 Learning **AI Engineering & System Design**
+💬 Ask me about **JavaScript, React, Node.js**
 
 ---
 
@@ -27,6 +27,7 @@ BIT student at Lincoln University · Building clean, scalable web apps · Explor
 
 **Frontend**  
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)]
+
 **Backend & Database**  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma)]
 
