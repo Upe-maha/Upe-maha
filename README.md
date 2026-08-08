@@ -39,7 +39,7 @@ I build full-stack products and explore what's possible with AI — React / Next
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" />
 
-<sub>🔭 MERN Stack Projects &nbsp;|&nbsp; 🌱 AI Engineering & System Design &nbsp;|&nbsp; 💬 JavaScript · React · Node.js</sub>
+<sub>🔭 MERN Stack Projects &nbsp;|&nbsp; 🌱 AI-Assisted Development & System Design &nbsp;|&nbsp; 💬 JavaScript · React · Node.js</sub>
 
 </div>
 
