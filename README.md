@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Upendra <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+## Hi, I'm Upendra <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
 
 ### Full Stack Developer · AI Learner
 
@@ -27,20 +27,17 @@ I build full-stack products and explore what's possible with AI — React / Next
 
 ## Stack
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr border="0">
-    <td align="right"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /></td>
-  </tr>
-  <tr border="0">
-    <td align="right"><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma" /></td>
-  </tr>
-  <tr border="0">
-    <td align="right"><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" /></td>
-  </tr>
-</table>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" />
 
 <sub>🔭 MERN Stack Projects &nbsp;|&nbsp; 🌱 AI Engineering & System Design &nbsp;|&nbsp; 💬 JavaScript · React · Node.js</sub>
 
