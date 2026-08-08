@@ -27,17 +27,17 @@ I build full-stack products and explore what's possible with AI — React / Next
 
 ## Stack
 
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr border="0">
+    <td align="right"><strong>Frontend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /></td>
   </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
+  <tr border="0">
+    <td align="right"><strong>Backend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma" /></td>
   </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
+  <tr border="0">
+    <td align="right"><strong>Tools</strong></td>
     <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" /></td>
   </tr>
 </table>
@@ -51,14 +51,5 @@ I build full-stack products and explore what's possible with AI — React / Next
 ## Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upe-maha&theme=github-dark&hide_border=true&border_radius=6" alt="GitHub Streak" width="460" />
-
-</div>
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Upe-maha&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upe-maha&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
